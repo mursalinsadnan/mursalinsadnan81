@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mursalin Sadnan
 - 👀 I’m interested in Graphic Design, Coding, Data Analysis, Data Science, Machine Learning and AI
 - 🌱 I'm a Graphic Designer and I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data analysis projects.
+- 💞️ I’m looking to collaborate on any type of Data analysis projects.
 - 📫 Feel free to contact me at mwmsadnan99@gmail.com
 
 <!---
